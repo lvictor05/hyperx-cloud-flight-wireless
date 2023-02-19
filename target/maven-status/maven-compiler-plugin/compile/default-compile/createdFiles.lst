@@ -1,0 +1,10 @@
+org/luizvictortinini/Main.class
+org/luizvictortinini/helper/EventEnum.class
+org/luizvictortinini/models/Event.class
+org/luizvictortinini/helper/Constants.class
+org/luizvictortinini/services/UiService.class
+org/luizvictortinini/models/HeadsetStatus.class
+org/luizvictortinini/helper/DeviceFinder.class
+org/luizvictortinini/services/HidService.class
+org/luizvictortinini/listeners/GlobalHidListener$1.class
+org/luizvictortinini/listeners/GlobalHidListener.class
